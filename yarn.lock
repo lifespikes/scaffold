@@ -320,10 +320,10 @@
     "@jridgewell/resolve-uri" "^3.0.3"
     "@jridgewell/sourcemap-codec" "^1.4.10"
 
-"@lifespikes/js-beam-vite@^0.7.0":
-  version "0.7.1"
-  resolved "https://npm.pkg.github.com/download/@lifespikes/js-beam-vite/0.7.1/a92bf124669a7a0189378950a1c2e7de841b19667ed653a351b6d896f48c0453#948e1ab9825ef0eabef5395e74adaaa49c47487c"
-  integrity sha512-27+UDICIz6DxO/g74mcVz4xYr6NWsgN/VUZ5E8gUCVxJ3nhP/iyKyGbjVTx176iZ4bpEy4FAGZch0jJApCYfvw==
+"@lifespikes/js-beam-vite@^0.7":
+  version "0.7.20"
+  resolved "https://npm.pkg.github.com/download/@lifespikes/js-beam-vite/0.7.20/5ca06247c4aed6badb1aa1d73d7ad829efcc3e5b99e4c3de07a951c5a751a4c3#77b170e326b3a13fb6e7e2cca22f2e52bcdd4bee"
+  integrity sha512-ahTHm/xN6rgifTPUCEok/qa6jHOeJjtgCBjshuyCAbyqHDgs1pQ8AHTeBHvhsuERaYW0/TRfVvdDT4AE8YCS4g==
   dependencies:
     "@vitejs/plugin-react" "^1.2.0"
     dotenv "^16.0.0"
@@ -333,10 +333,10 @@
     vite-plugin-css-injected-by-js "^1.2.1"
     vite-plugin-laravel "^0.2.0-beta.9"
 
-"@lifespikes/js-beam@^0.7.0":
-  version "0.7.1"
-  resolved "https://npm.pkg.github.com/download/@lifespikes/js-beam/0.7.1/b70e7833e042d429399455388466c8aea0e1e7ac708491aa814c4a74a68f0a33#2f29f719c10ff3b6378d20034df6c2a895115aa2"
-  integrity sha512-1PipK6MFQ37rPBYKBeDa9RHr1NE7PBpMzllIv+26veFQOExfINxTjlvemwfY8mJAcYw+QNXgGRY4dkTqu3NJWg==
+"@lifespikes/js-beam@^0.7":
+  version "0.7.20"
+  resolved "https://npm.pkg.github.com/download/@lifespikes/js-beam/0.7.20/27311fed2fbe90c9cc9a4aa80806551bb7bfaf09d4cc1f36e67f1743bf07abdb#bb47e7bc44aa5ba13d4b88e93a5ccbbc440fbebe"
+  integrity sha512-JZgJ3XeJ2dII1E+dkmfcB6XDWvk+aKG3vPxglMWUT6JvYfzymlobhtDyj9OiSnzflgsoVIIfzlko/2ZIdswpRw==
   dependencies:
     "@inertiajs/inertia" "^0.11.0"
     "@inertiajs/inertia-react" "^0.8.0"
