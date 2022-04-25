@@ -20,6 +20,9 @@
             "Illuminate\\Foundation\\ComposerScripts::postAutoloadDump",
             "@php artisan package:discover --ansi"
         ],
+        "post-create-project-cmd": [
+            "composer ls-scaffold-post-create"
+        ],
         "phpcs": "vendor/bin/php-cs-fixer fix --config=vendor/lifespikes/php-beam/config/php-cs-fixer.php"
     },
     "config": {
