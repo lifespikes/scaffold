@@ -1,12 +1,12 @@
 <?php
 
-namespace Lifespikes\ScaffoldApp;
+namespace Lifespikes\Backend;
 
 use Illuminate\Support\Facades\Route;
 use Illuminate\Support\ServiceProvider;
 use Inertia\Inertia;
 
-class ScaffoldAppProvider extends ServiceProvider
+class BackendAppProvider extends ServiceProvider
 {
     public function register()
     {
