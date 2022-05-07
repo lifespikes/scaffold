@@ -11,6 +11,8 @@ node_modules
 yarn-error.log
 **/yarn-error.log
 
+#ide
+.idea
 # Yarn is the preferred package manager
 package.lock
 
