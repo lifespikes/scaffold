@@ -1,6 +1,6 @@
 {
   "extends": "@lifespikes/js-beam/dist/tsconfig.json",
-  "include": ["./packages/**/*.ts", "./packages/**/*.tsx", "vite.config.ts"],
+  "include": ["./packages/**/*.ts", "./packages/**/*.tsx", "./packages/**/*.js", "vite.config.ts"],
   "exclude": ["node_modules", "**/node_modules"],
   "compilerOptions": {
     "baseUrl": ".",
