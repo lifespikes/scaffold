@@ -11,6 +11,9 @@ node_modules
 yarn-error.log
 **/yarn-error.log
 
+# IDEA IDE settings are shared from here, do not add to gitignore
+# .idea
+
 # Yarn is the preferred package manager
 package.lock
 
